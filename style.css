@@ -4,7 +4,7 @@
 }
 #sirat{
     background-color: blueviolet;
-    position:relative
+    position:relative;
 }
 #two{
     background-color: coral;
@@ -18,8 +18,7 @@ img{
     padding:20px;
     border: solid gray 20px;
     border-radius: 20px;
-    visibility: hidden;
-   
+
 }
 #option{
     font-size: 20px;
