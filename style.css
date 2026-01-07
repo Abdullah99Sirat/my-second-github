@@ -21,3 +21,10 @@ img{
     visibility: hidden;
    
 }
+#option{
+    font-size: 20px;
+    background-color: lightblue;
+}
+*{
+    background-color: azure;
+}
