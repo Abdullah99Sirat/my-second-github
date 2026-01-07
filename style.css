@@ -1,0 +1,23 @@
+#one{
+    background-color: aqua;
+    box-shadow:  blue; 
+}
+#sirat{
+    background-color: blueviolet;
+    position:relative
+}
+#two{
+    background-color: coral;
+    position: 50%;
+    background-image: url(food.jpg);
+    repeat:none;
+    
+}
+img{
+    margin:20PX;
+    padding:20px;
+    border: solid gray 20px;
+    border-radius: 20px;
+    visibility: hidden;
+   
+}
